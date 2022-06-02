@@ -1,0 +1,5 @@
+#animal{
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 25% 25% 25%;
+}
